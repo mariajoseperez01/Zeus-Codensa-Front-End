@@ -28,10 +28,10 @@ El diseño se apoya en un **Light Mode**, usando el **Verde Lima Vibrante (#84CC
 ## 4. Mockups del Sistema
 El diseño interactivo y la propuesta de pantallas (interfaces para organizador, capitán y jugador) se pueden navegar en el enlace oficial:
 
-🔗 **Link de Figma:** [https://tag-skit-64046987.figma.site](https://tag-skit-64046987.figma.site)
+🔗 **Link de Figma:** https://sip-indent-53284309.figma.site/referee/schedule 
 
 
-🔗 **Link de Figma:** [https://mail-team-q7lj9.atlassian.net/jira/software/projects/PZC/boards/168/backlog?epics=visible&atlOrigin=eyJpIjoiZTgwNjhhNTQ5YzVkNDRiZDgyNjg4YzQ3YzlkYzc5OGQiLCJwIjoiaiJ9](https://tag-skit-64046987.figma.site)
+🔗 **Link de Jira:** https://mail-team-q7lj9.atlassian.net/jira/software/projects/PZC/boards/168/backlog?epics=visible&atlOrigin=eyJpIjoiZTgwNjhhNTQ5YzVkNDRiZDgyNjg4YzQ3YzlkYzc5OGQiLCJwIjoiaiJ9 
 ## 5. Módulos de la Aplicación Web
 
 ### 1. Módulo de autenticación y registro
