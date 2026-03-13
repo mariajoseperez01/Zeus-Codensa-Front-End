@@ -28,13 +28,17 @@ El diseño se apoya en un **Light Mode**, usando el **Verde Lima Vibrante (#84CC
 ## 4. Mockups del Sistema
 El diseño interactivo y la propuesta de pantallas (interfaces para organizador, capitán y jugador) se pueden navegar en el enlace oficial:
 
-🔗 **Link de Figma:** [https://tag-skit-64046987.figma.site](https://tag-skit-64046987.figma.site)
-**Link de jira:** https://mail-team-q7lj9.atlassian.net/jira/software/projects/PZC/boards/168/backlog?epics=visible&atlOrigin=eyJpIjoiZTgwNjhhNTQ5YzVkNDRiZDgyNjg4YzQ3YzlkYzc5OGQiLCJwIjoiaiJ9 
+🔗 **Link de Figma:** https://sip-indent-53284309.figma.site/referee/schedule 
+
+
+🔗 **Link de Jira:** https://mail-team-q7lj9.atlassian.net/jira/software/projects/PZC/boards/168/backlog?epics=visible&atlOrigin=eyJpIjoiZTgwNjhhNTQ5YzVkNDRiZDgyNjg4YzQ3YzlkYzc5OGQiLCJwIjoiaiJ9 
 ## 5. Módulos de la Aplicación Web
 
 ### 1. Módulo de autenticación y registro
 Permite el registro e inicio de sesión de estudiantes, graduados, profesores, personal administrativo y familiares, aplicando reglas por tipo de correo y rol.
 ![Iniciar Sesion.png](docs/design/Iniciar%20Sesion.png)
+
+![img.png](docs/design/Registro.png)
 
 ### 2. Módulo de perfil de jugador
 Permite crear y actualizar el perfil deportivo del participante: posición, dorsal, fotografía y disponibilidad para equipos.
@@ -42,7 +46,7 @@ Permite crear y actualizar el perfil deportivo del participante: posición, dors
 
 ### 3. Módulo de equipos y capitanes
 Permite crear equipos, definir nombre, escudo y colores, invitar jugadores y validar reglas de conformación del equipo.
-
+![Capitan.png](docs/design/Capitan.png)
 ![Equipos.png](docs/design/Equipos.png)
 ### 4. Módulo de inscripción y pagos
 Permite cargar comprobantes de pago, revisar evidencias y cambiar estado de inscripción (Pendiente, En revisión, Aprobado, Rechazado).
